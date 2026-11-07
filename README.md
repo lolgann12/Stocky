@@ -2,7 +2,7 @@
   <img src="Stocky/Image/stocky-mark.png" alt="Logo Stocky" width="140">
 </p>
 
-<h1 align="center">Stocky — Sistem Informasi Stok Barang</h1>
+<h1 align="center">Stocky</h1>
 
 ## Fitur
 
