@@ -27,5 +27,7 @@
 
 ## Platform
 
-- ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) — bahasa pemrograman berorientasi objek dari Microsoft.
-- ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) — tools untuk mengelola database SQL Server.
+| Platform | Keterangan |
+|:---:|---|
+| ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) | Bahasa pemrograman berorientasi objek dari Microsoft. |
+| ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | Aplikasi pengelola database SQL Server dari Microsoft. |
