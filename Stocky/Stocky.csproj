@@ -277,7 +277,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.md" />
     <None Include="Resources\3f16fa4dec1edcfa7dec2aaec2677ca8.jpg" />
   </ItemGroup>
   <ItemGroup>
