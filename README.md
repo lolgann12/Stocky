@@ -25,7 +25,7 @@
 | Laporan | ✅ | ✅ |
 | Audit Log | ✅ | ❌ |
 
-## Tools
+## Platform
 
 | Tools | Keterangan |
 |:---:|---|
